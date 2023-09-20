@@ -2,3 +2,17 @@ header {
   display: flex;
   justify-content: center;
 }
+
+footer hr {
+  align-items: center;
+}
+
+
+footer p {
+  font-size: 10px;
+  font-weight: bolder;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
